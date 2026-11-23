@@ -1,7 +1,7 @@
 # LocalCore Lite
 
 > **Want offline voice, local PDF Q&A, clipboard debugging, and 1-click installers?**
-> Upgrade to [**LocalCore Pro**](../localcore-pro), the complete desktop experience.
+> Upgrade to [**LocalCore Pro**](https://mintlink.in/m/localcore-pro-offline-voice-pdf-ai-assistant-8gb-16gb-ram-no-gpu-56126cf7), the complete desktop experience.
 
 LocalCore Lite is a free, open-source, text-only terminal assistant powered by Ollama.
 
